@@ -6,7 +6,7 @@ Full jsons can be found here: https://essentialmana.com/enchancement-calc/talent
 Overriding is simple: key must be talent id (can either find it in jsons, or from url when you click on it on webpage) and then the object must be whatever you want to override - see other overrides made.
 Eg, most overrides will look:
 
-    {id} : {
+    "{id}" : {
         "name": "{name}"
         "tooltip": "{tooltip}"
     }
