@@ -1,5 +1,107 @@
 {
-    "930100": {
-        "name": "Strengthen"
+    "111000": {
+        "name": "Mighty Attack",
+        "tooltip": "Increases power by {value1}."
+    },
+
+    "112000": {
+        "name": "Mighty Defense",
+        "tooltip": "Increases endurance by {value1}."
+    },
+    "101020": {
+        "name": "Agile Phoenix",
+        "tooltip": "Increases movement speed by {value1} for {value2} seconds upon resurrection. Ends upon entering combat."
+    },
+    "101010": {
+        "name": "Might Phoenix",
+        "tooltip": "Upon resurrection, received damage is reduced by 50% for {value1} seconds."
+    },
+    "102010": {
+        "name": "Empowered Speed",
+        "tooltip": "Increases mount movement speed by 20 for {value1}. Effect has a 5 minute cooldown."
+    },
+    "112010": {
+        "name": "Lethal Lesson",
+        "tooltip": "Has {value3}% chance to increase Crit Resist by {value2} for 5 seconds upon receiving a critical hit. Subsequent critical hits while the buff is still active will grant {value4} additional Crit Resist, up to a total maximum of {value1} for 5 seconds."
+    },
+    "820210": {
+        "name": "Vengeful Pummel",
+        "tooltip:": "Has {value1}% chance to increase crit factor by {value2} on successful block."
+    },
+    "820230": {
+        "name": "Speed Skating: Retribution",
+        "tooltip": "Has a {value1}% chance to increase Shield Counter casting speed by {value2}% on a successful block."
+    },
+    "820300": {
+        "name": "Strengthen",
+        "tooltip": "Increases EP Attack Power by {value1}."
+    },
+    "820310": {
+        "name": "Impact",
+        "tooltip": "Has {value1}% chance to knock down monsters or {value2}% chance to stun players."
+    },
+    "820320": {
+        "name": "Velocity",
+        "tooltip": "Increases casting speed by {value1}%."
+    },
+    "820410": {
+        "name": "Amplification",
+        "tooltip": "Increases aggro gain by {value1}%."
+    },
+    "820420": {
+        "name": "Protection",
+        "tooltip": "Has {value1}% chance of creating a barrier that absorbs {value3} damage for {value2} seconds."
+    },
+    "820500": {
+        "name": "Strengthen",
+        "tooltip": "Increases EP Attack Power by {value1}."
+    },
+    "820510": {
+        "name": "Reload",
+        "tooltip": "Has {value1}% chance to reset cooldown."
+    },
+    "820710": {
+        "name": "Turning Tables",
+        "tooltip:": "Skill cooldown decreases by {value1} seconds for every attack the player suffers while being knocked-down."
+    },
+    "820800": {
+        "name": "Strenghten",
+        "tooltip": "Increases EP Attack Power by {value1}."
+    },
+    "820810": {
+        "name": "Fatal Blow",
+        "tooltip": "Has {value1}% of increasing Critical Power by {value2} when critting on an enemy."
+    },
+    "821000": {
+        "name": "Strengthen",
+        "tooltip": "Increases EP Attack Power by {value1}."
+    },
+    "821010": {
+        "name": "Insult",
+        "tooltip": "Increases aggro gain by {value1}%."
+    },
+    "821110": {
+        "name": "Turning Tables",
+        "tooltip": "Has {value1}% chance to reset skill cooldown when knocked down."
+    },
+    "821300": {
+        "name": "Strengthen",
+        "tooltip": "Increases EP Attack Power by {value1}."
+    },
+    "821310": {
+        "name": "Trample",
+        "tooltip": "Increases EP Attack Power by {value1} when attacking a knocked-down target."
+    },
+    "821610": {
+        "name": "Purification",
+        "tooltip": "Has a {value1}% chance to cleanse debuffs."
+    },
+    "821710": {
+        "name": "Constancy",
+        "tooltip": "Increases buff duration by {value1} seconds."
+    },
+    "821720": {
+        "name": "Force",
+        "tooltip": "Increases power by {value2} for 10 seconds. Has {value3}% chance to increase power by 1 on each hit. Effect can stack up to {value1} power."
     }
-}  
+}
