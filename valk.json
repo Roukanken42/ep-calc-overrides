@@ -1,0 +1,32 @@
+{
+	"940610": {
+		"name": "Counter",
+		"tooltip": "Crit Power increases by {value1} when critically hitting target successfully."
+	},
+
+
+	"940710": {
+		"name": "Critical Pummel",
+		"tooltip": "Increases Crit Factor by {value1} for 30 seconds when successfully hitting target 3 times."
+	},
+
+	"940720": {
+		"name": "Counter",
+		"tooltip": "Crit Power increases by {value1} when critically hitting target successfully."
+	},
+
+	"940910": {
+		"name": "Counter",
+		"tooltip": "Crit Power increases by {value1} when critically hitting target successfully."
+	},
+
+	"941010": {
+		"name": "Counter",
+		"tooltip": "Crit Power increases by {value1} when critically hitting target successfully."
+	},
+
+	"941310": {
+		"name": "Counter",
+		"tooltip": "Crit Power increases by {value1} when critically hitting target successfully."
+	}
+}
