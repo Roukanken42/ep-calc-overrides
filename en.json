@@ -70,7 +70,7 @@
     },
     "820810": {
         "name": "Fatal Blow",
-        "tooltip": "Has {value1}% of increasing Critical Power by {value2} when critting on an enemy."
+        "tooltip": "Has {value1}% chance of increasing Critical Power by {value2} when critting on an enemy."
     },
     "821000": {
         "name": "Strengthen",
