@@ -1,0 +1,141 @@
+{
+	"940410": {
+		"name": "Reload",
+		"tooltip": "{value1}% chance to reset cooldown on a successful hit."
+		},
+	
+    "940510": {
+		"name": "Blood Leech",
+		"tooltip": "Replenishes HP by {value1} on successful hit. Healing doubles if current HP is below 20% maximum HP.",
+	    },
+	
+	"940610": {
+        "name": "Counter",
+        "tooltip": "Crit Power increases by {value1} when critically hitting target successfully.",
+        "levels": {
+            "1": {"value1": "0.06"},
+            "2": {"value1": "0.072"},
+            "3": {"value1": "0.086"},
+            "4": {"value1": "0.098"},
+            "5": {"value1": "0.112"},
+            "6": {"value1": "0.124"},
+            "7": {"value1": "0.138"},
+            "8": {"value1": "0.15"},
+            "9": {"value1": "0.162"},
+            "10": {"value1": "0.176"},
+            "11": {"value1": "0.188"},
+            "12": {"value1": "0.202"},
+            "13": {"value1": "0.214"},
+            "14": {"value1": "0.228"},
+            "15": {"value1": "0.24"}
+        },
+    },
+
+	"940710": {
+		"name": "Critical Pummel",
+		"tooltip": "Increases Crit Factor by {value1} for 30 seconds when successfully hitting target 3 times."
+	},
+
+	"940720": {
+		"name": "Counter",
+		"tooltip": "Crit Power increases by {value1} when critically hitting target successfully.",
+        "levels": {
+            "1": {"value1": "0.06"},
+            "2": {"value1": "0.072"},
+            "3": {"value1": "0.086"},
+            "4": {"value1": "0.098"},
+            "5": {"value1": "0.112"},
+            "6": {"value1": "0.124"},
+            "7": {"value1": "0.138"},
+            "8": {"value1": "0.15"},
+            "9": {"value1": "0.162"},
+            "10": {"value1": "0.176"},
+            "11": {"value1": "0.188"},
+            "12": {"value1": "0.202"},
+            "13": {"value1": "0.214"},
+            "14": {"value1": "0.228"},
+            "15": {"value1": "0.24"}
+        },
+	},
+
+	"940910": {
+		"name": "Counter",
+		"tooltip": "Crit Power increases by {value1} when critically hitting target successfully.",
+        "levels": {
+            "1": {"value1": "0.06"},
+            "2": {"value1": "0.072"},
+            "3": {"value1": "0.086"},
+            "4": {"value1": "0.098"},
+            "5": {"value1": "0.112"},
+            "6": {"value1": "0.124"},
+            "7": {"value1": "0.138"},
+            "8": {"value1": "0.15"},
+            "9": {"value1": "0.162"},
+            "10": {"value1": "0.176"},
+            "11": {"value1": "0.188"},
+            "12": {"value1": "0.202"},
+            "13": {"value1": "0.214"},
+            "14": {"value1": "0.228"},
+            "15": {"value1": "0.24"}
+        },
+	},
+
+	"941010": {
+		"name": "Counter",
+		"tooltip": "Crit Power increases by {value1} when critically hitting target successfully.",
+        "levels": {
+            "1": {"value1": "0.06"},
+            "2": {"value1": "0.072"},
+            "3": {"value1": "0.086"},
+            "4": {"value1": "0.098"},
+            "5": {"value1": "0.112"},
+            "6": {"value1": "0.124"},
+            "7": {"value1": "0.138"},
+            "8": {"value1": "0.15"},
+            "9": {"value1": "0.162"},
+            "10": {"value1": "0.176"},
+            "11": {"value1": "0.188"},
+            "12": {"value1": "0.202"},
+            "13": {"value1": "0.214"},
+            "14": {"value1": "0.228"},
+            "15": {"value1": "0.24"}
+        },
+	},
+
+	"941310": {
+		"name": "Counter",
+		"tooltip": "Crit Power increases by {value1} when critically hitting target successfully.",
+        "levels": {
+            "1": {"value1": "0.06"},
+            "2": {"value1": "0.072"},
+            "3": {"value1": "0.086"},
+            "4": {"value1": "0.098"},
+            "5": {"value1": "0.112"},
+            "6": {"value1": "0.124"},
+            "7": {"value1": "0.138"},
+            "8": {"value1": "0.15"},
+            "9": {"value1": "0.162"},
+            "10": {"value1": "0.176"},
+            "11": {"value1": "0.188"},
+            "12": {"value1": "0.202"},
+            "13": {"value1": "0.214"},
+            "14": {"value1": "0.228"},
+            "15": {"value1": "0.24"}
+        },
+	},
+	
+	"941400": {
+		"name": "Combat Speed Up",
+		"tooltip": "Increases Combat Movement Speed by {value1} for 3 seconds when casting the skill."
+	},
+	
+	"941510": {
+		"name": "Reload",
+		"tooltip": "Decreases Skill Cooldown of Windslash by {value1} seconds when successfully critical hitting a target with Ground Bash or Glaive Strike."
+	},
+	
+	"941800": {
+		"name": "Turning Tables",
+		"tooltip": "When knocked-down there is {value1}% chance to reset cooldown."
+	}
+}
