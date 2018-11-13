@@ -1,3 +1,4 @@
+Will be simpler to have Valk here, separated so I can have the cleaner look
 {
 	"940610": {
 		"name": "Counter",
